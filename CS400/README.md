@@ -11,23 +11,23 @@ CS 400's course name is *Programming III*. It contains diverse topics in program
 ## Course Schedule in SU 2021
 I attend CS 400 in Summer 2021. It is a 8-weeks' course, and covers exact same dense of materials as covered in normal fall/spring semesters. Inside the class we had learned:
 
-**Week01**
+### Week01
 - Radix Sort
 - Bash
 - Editors:
   - Vim/Emacs
 - GNU Makefile
 
-**Week02**
+### Week02
 - Generics
 - Hashing
 
-**Week03**
+### Week03
 - JUnit
 - Binary Search Tree
 - Red-Black Tree
 
-**Week04**
+### Week04
 - Read-Black Tree Remove
 - Inner Class
 - Anonymous Class
@@ -37,19 +37,19 @@ I attend CS 400 in Summer 2021. It is a 8-weeks' course, and covers exact same d
   - Branching & Merging
   - Repository Creation
 
-**Week05**
+### Week05
 - Regex
 - Sets & Graphs
 - Minimum Spanning Tree
 - Dijikstra's Shortest Path Algorithm
 
-**Week06**
+### Week06
 - HTML
 - Skip List
 - B-Tree
   - 2-3-4 Tree
 
-**Week07**
+### Week07
 - Tries Data Structure
 - AVL Tree
 - CSS Forms
