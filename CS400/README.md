@@ -1,6 +1,7 @@
-# CS 400 Course General Introduction
+# CS 400: Programming III
 
 **Author: Shi Kaiwen**
+<br>
 **Date: 2021.5 - 2021.7**
 
 ## General Introduction ##
