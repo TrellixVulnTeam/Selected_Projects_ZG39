@@ -65,6 +65,7 @@ I attend ECE 354 in Summer 2021. It is a 8-weeks' course, and covers exact same 
 ## Selected Projects
 2 projects from this course is displayed:
 - In C:
+    - Username, Email, & Password Verification
     - Latin Squares
 - In Assembly:
     - Assembly Lanuguage Programming

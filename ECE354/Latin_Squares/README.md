@@ -1,4 +1,4 @@
-# ECE 354 Selected Project #1: Latin Squares
+# ECE 354 Selected Project #2: Latin Squares
 
 A Latin Square is an n x n puzzle filled with n different symbols. Each symbol occurs exactly once in each row and exactly once in each column. The following three puzzles are all examples of valid Latin Squares.
 

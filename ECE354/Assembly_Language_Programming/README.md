@@ -1,4 +1,4 @@
-# ECE 354 Selected Project #2: Assembly Language Programming
+# ECE 354 Selected Project #3: Assembly Language Programming
 The project's aim is to get used to x86 Assembly Language Programming.
 
 There are two small sets in this project:
