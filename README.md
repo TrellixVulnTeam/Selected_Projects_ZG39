@@ -1,7 +1,6 @@
 # Sample-Projects
-Author: Shi Kaiwen
 
-This repository is for displaying some sample projects/demos I have written in my past CS/ECE classes in UW-Madison. Each sample projects will have separate introductions within their folders. 
+This repository is for displaying some sample projects/demos I have written in my past CS/ECE classes. Each sample projects will have separate introductions within their folders. 
 
 All sample projects are stored at separate class folders. Within each class folder there are also a README file that generally introduces other knowledges (e.g. Data Structures, ideas & opinions, etc.) that I have learned in these classes.
 
