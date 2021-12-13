@@ -10,10 +10,10 @@ CS 540 talks about general topics in Artificial Intelligence:
 
 - Machine Learning (ML)
 - Deep Learning (DL)
-- Reinforcement Learning - (RL)
+- Reinforcement Learning - (RL) HW10
 - Natural Langauge Processing - (NLP)
-- Neural Networks (NN)
-- Search Problems
+- Neural Networks (NN) HW06/07
+- Search Problems HW08
 - Game Theory
 
 From School's Enrollment Website, the CS 540's introduction is given below:
