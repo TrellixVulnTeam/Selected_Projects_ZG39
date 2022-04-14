@@ -8,6 +8,6 @@ Projects are from following courses (up to Fall 2021)
 - CS 300 Programming II (Spring 2021)
 - ECE 354 Machine Organization & Programming (Summer 2021)
 - CS 400 Programming III (Summer 2021)
-- CS 540 Introduction to Artificial Intelligence (Fall 2021, In Progress)
+- CS 540 Introduction to Artificial Intelligence (Fall 2021)
 
 The repository is currently updating and many new projects/demos will be added soon.  
