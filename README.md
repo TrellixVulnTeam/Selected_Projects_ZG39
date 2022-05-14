@@ -10,6 +10,8 @@ Projects are from following courses:
 - CS 400 Programming III (Summer 2021)
 - CS 540 Introduction to Artificial Intelligence (Fall 2021)
 - STAT 240 Data Modeling (Spring 2022)
+- LIS 500 Code and Power (Spring 2022)
+- CS 320 Data Science Programming II (Spring 2022)
 - CS 564 Database Management Systems: Design and Implementation (Expected Summer 2022)
 
 The repository is currently updating and many new projects/demos will be added soon.  
