@@ -22,4 +22,4 @@ This website is consists of multiple pages, including:
 - a database if a group member has the requisite MySQL knowledge, but this is NOT REQUIRED)
 - a PHP-based “contact us” form (same as above) 
 
-**For any concerns about details about this website, please check `README.md` under the `LIS500-Final-Project` folder.
+**For any concerns about details about this website, please check `README.md` under the `LIS500-Final-Project` folder.**
