@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<!-- Make PHP show PHP errors on the HTML page, instead of failing silently. -->
+
+<html>
+	<head>
+		<title>Contact us</title>
+		<style type="text/css">
+			body { font-family: Candara, Helvetica, "Helvetica Neue," sans-serif }
+			label, input[type='text'], input[type='email'] { display: inline-block; margin: .5em 0; }
+			label { width: 10em; padding-left: 1em }
+			input[type='text'], input[type='email'] { width: 10em; margin: 0 10em 0 4% }
+			fieldset { max-width: 50% }
+		</style>
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css"
+            integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous" />
+	</head>
+	<body>
+        <div class="container pt-2 pb-2 bg-secondary">
+            <div class="row">
+                <div class="col-lg text-center">
+                    <a href="./index.html" class="text-white">Home</a>
+                </div>
+                <div class="col-lg text-center">
+                    <a href="./schedule.html" class="text-white">Schedule</a>
+                </div>
+                <div class="col-lg text-center">
+                    <a href="./policy.html" class="text-white">Policies</a>
+                </div>
+                <div class="col-lg text-center">
+                    <a href="./register.html" class="text-white">Registration</a>
+                </div>
+                <div class="col-lg text-center">
+                    <a href="./contact.html" class="text-white">Contact</a>
+                </div>
+            </div>
+        </div>
+        <div style="text-align: center;">
+            <h1>Sign up to keep in touch with us!</h1>
+            
+            <form action="http://localhost:4040/contact.php" method="POST" enctype="multipart/form-data" style="margin-left : 25vw;">
+
+                <fieldset><legend>How do we address you respectfully?</legend>
+            
+                <label for="firstname">Given name:*</label><input type="text" name="firstname" required><br>
+                <label for="lastname">Surname:*</label><input type="text" name="lastname" required><br>
+                <label for="pronouns">Pronouns:</label><input type="text" name="pronouns">
+                </fieldset>
+                
+                <fieldset><legend>Your contact info</legend>
+                <label for="email">Email address:* </label><input type="email" name="email" required><br>
+                <label for="phone">Preferred phone number: </label><input type="text" name="phone">
+                </fieldset>
+                
+                <fieldset><legend>Any extra messages?</legend>
+                <label for="extramsg">Leave your extra note here:</label><input type="text" name="extramsg">
+                </fieldset>
+
+                <input name="submit" type="submit" value="Sign up" style="margin-right: 35vw;">
+            </form>
+        </div>
+	</body>
+</html>
