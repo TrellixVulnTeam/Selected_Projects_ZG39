@@ -3,9 +3,11 @@
 **Author: Shi Kaiwen**
 <br>
 
-**Date: 2022.6 - 2022.8*
+*Date: 2022.6 - 2022.8*
 
 ## General Introduction
+
+CS 564 is one of the UW-Madison CS Major class. It discusses about multiple ideas related to database systems, including but not limited to: ER Modeling, B+ trees, etc. At the end of the class, students are required to code out their personal database projects. Students are doing the project on a 3-people team basis.
 
 From School's Enrollment Website, the CS 564's introduction is given below:
 
