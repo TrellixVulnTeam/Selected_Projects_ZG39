@@ -12,6 +12,11 @@ Projects are from following courses:
 - STAT 240 Data Modeling (Spring 2022)
 - LIS 500 Code and Power (Spring 2022)
 - CS 320 Data Science Programming II (Spring 2022)
-- CS 564 Database Management Systems: Design and Implementation (Expected Summer 2022)
+- CS 564 Database Management Systems: Design and Implementation (Summer 2022)
+
+> ### Update 
+#### `Writing_Sample`
+The folder contains two academic writing samples. The `001_academic_writing_sample.pdf` is an 8-paged ***Independent Research Paper***, which focuses on analyzing the "996" working phenomenon that has appeared in China since a couple of years ago. The `002_stat_project_report_sample.pdf` is a sample of Statistics analysis project report. It is the printed version of STAT 240 selected project.
+
 
 The repository is currently updating and many new projects/demos will be added soon.  
